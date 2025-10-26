@@ -1,9 +1,3 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://i.mji.rip/2025/10/26/4d92538ec511c1173ee2db119b0e8dd3.jpeg">
- <source media="(prefers-color-scheme: light)" srcset="https://i.mji.rip/2025/10/26/4d92538ec511c1173ee2db119b0e8dd3.jpeg">
- <img alt="YOUR-ALT-TEXT" src="https://i.mji.rip/2025/10/26/4d92538ec511c1173ee2db119b0e8dd3.jpeg">
-</picture>
-
 <!-- 霓虹蓝打字机动态标题 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&width=600&lines=%3E+Hello+World%2C+I'm+LiuEggy_;&3E+Welcome+to+my+cyber+space+%F0%9F%8C%90;" alt="typing animation" />
