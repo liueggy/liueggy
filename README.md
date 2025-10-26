@@ -1,3 +1,9 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.mji.rip/2025/10/26/4d92538ec511c1173ee2db119b0e8dd3.jpeg">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.mji.rip/2025/10/26/4d92538ec511c1173ee2db119b0e8dd3.jpeg">
+ <img alt="YOUR-ALT-TEXT" src="https://i.mji.rip/2025/10/26/4d92538ec511c1173ee2db119b0e8dd3.jpeg">
+</picture>
+
 # 👋 关于我 · LiuEggy
 
 你好，我是 **LiuEggy**，来自成都理工大学机械工程专业的大三学生。  
