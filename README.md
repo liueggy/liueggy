@@ -26,7 +26,7 @@
 
 我是一名机械工程专业学生，关注嵌入式开发、机器视觉、AIoT 和实际工程部署。
 
-我更感兴趣的不是单点技术本身，而是把硬件、控制、感知与软件系统组织成完整、可运行、可维护的工程作品。
+我更在意的不是单点技术本身，而是把硬件、控制、感知与软件系统组织成完整、可运行、可维护的工程作品。
 
 ---
 
@@ -58,16 +58,16 @@
 
 ## 代表项目
 
-### STM32_code
-基于 STM32F103ZET6 的智能垃圾分类系统项目代码。
+### [STM32_code](https://github.com/liueggy/STM32_code)
+基于 STM32F103ZET6 的智能垃圾分类系统项目代码，聚焦控制逻辑、嵌入式实现与工程落地。
 
-### personal_website
-用于展示个人项目、实验记录与技术成长过程的个人网站。
+### [personal_website](https://github.com/liueggy/personal_website)
+个人网站项目，用于展示项目记录、实验过程与技术成长轨迹。
 
-### catkin_ws
-面向 ROS / 机器人学习与开发的工作区。
+### [catkin_ws](https://github.com/liueggy/catkin_ws)
+面向 ROS / 机器人学习与开发的工作区，用于整理实验、代码与系统实践。
 
-### eggy-cpp
+### [eggy-cpp](https://github.com/liueggy/eggy-cpp)
 用于 C++ 学习、练习与工程化积累的代码仓库。
 
 ---
@@ -81,12 +81,11 @@
 
 ---
 
-## GitHub 统计
+## 项目导航
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=liueggy&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liueggy&layout=compact&theme=transparent&hide_border=true" />
-</p>
+- [我的 GitHub 仓库列表](https://github.com/liueggy?tab=repositories)
+- [个人主页网站](https://liueggy.live)
+- [GitHub 个人主页仓库](https://github.com/liueggy/liueggy)
 
 ---
 
