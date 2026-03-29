@@ -1,7 +1,7 @@
 <h1 align="center">LiuEggy</h1>
 
 <p align="center">
-  Mechanical Engineering Student · Embedded Systems · AIoT · Cloud Deployment
+  机械工程专业学生 · 嵌入式系统 · AIoT · 云端部署
 </p>
 
 <p align="center">
@@ -17,30 +17,30 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6AA6FF&center=true&vCenter=true&width=700&lines=Building+reliable+systems+from+hardware+to+software.;Focused+on+embedded+development%2C+vision%2C+and+deployment.;Turning+engineering+ideas+into+working+projects." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6AA6FF&center=true&vCenter=true&width=700&lines=%E4%BB%8E%E7%A1%AC%E4%BB%B6%E5%88%B0%E8%BD%AF%E4%BB%B6%EF%BC%8C%E6%9E%84%E5%BB%BA%E5%8F%AF%E9%9D%A0%E7%9A%84%E7%B3%BB%E7%BB%9F%E3%80%82;%E4%B8%93%E6%B3%A8%E4%BA%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91%E3%80%81%E8%A7%86%E8%A7%89%E4%B8%8E%E9%83%A8%E7%BD%B2%E5%B7%A5%E7%A8%8B%E3%80%82;%E6%8A%8A%E5%B7%A5%E7%A8%8B%E6%83%B3%E6%B3%95%E5%8F%98%E6%88%90%E7%9C%9F%E6%AD%A3%E8%83%BD%E8%BF%90%E8%A1%8C%E7%9A%84%E4%BD%9C%E5%93%81%E3%80%82" alt="Typing SVG" />
 </p>
 
 ---
 
-## Profile
+## 简介
 
-I am a Mechanical Engineering student with a strong interest in embedded development, machine vision, AIoT, and practical deployment.
+我是一名机械工程专业学生，关注嵌入式开发、机器视觉、AIoT 和实际工程部署。
 
-My work focuses on combining hardware, control, perception, and software systems into projects that are not only functional, but also structured and maintainable.
-
----
-
-## Focus Areas
-
-- Embedded systems based on STM32
-- Vision-related development and intelligent recognition
-- AIoT and device-side engineering
-- Cloud deployment with Docker and Nginx
-- End-to-end engineering workflow from prototype to implementation
+我更感兴趣的不是单点技术本身，而是把硬件、控制、感知与软件系统组织成完整、可运行、可维护的工程作品。
 
 ---
 
-## Tech Stack
+## 关注方向
+
+- 基于 STM32 的嵌入式系统开发
+- 视觉相关任务与智能识别
+- AIoT 与设备侧工程实践
+- Docker / Nginx / 云服务器部署
+- 从原型验证到落地实现的完整工程流程
+
+---
+
+## 技术栈
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
@@ -56,32 +56,32 @@ My work focuses on combining hardware, control, perception, and software systems
 
 ---
 
-## Selected Projects
+## 代表项目
 
 ### STM32_code
-Embedded project code for an intelligent waste classification system based on STM32F103ZET6.
+基于 STM32F103ZET6 的智能垃圾分类系统项目代码。
 
 ### personal_website
-A personal website used to present projects, experiments, and technical growth.
+用于展示个人项目、实验记录与技术成长过程的个人网站。
 
 ### catkin_ws
-A ROS-related workspace for robotics learning and development.
+面向 ROS / 机器人学习与开发的工作区。
 
 ### eggy-cpp
-A repository for C++ learning, practice, and engineering-oriented exercises.
+用于 C++ 学习、练习与工程化积累的代码仓库。
 
 ---
 
-## Current Work
+## 当前重点
 
-- Building embedded control systems on STM32
-- Exploring vision tasks on K230 AI SoC
-- Improving practical deployment workflows with Docker and Nginx
-- Expanding from single-function demos to complete engineering solutions
+- 构建基于 STM32 的嵌入式控制系统
+- 探索 K230 AI SoC 上的视觉任务实践
+- 完善 Docker 与 Nginx 相关部署流程
+- 从单功能 Demo 逐步走向完整工程实现
 
 ---
 
-## GitHub Statistics
+## GitHub 统计
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=liueggy&show_icons=true&theme=transparent&hide_border=true" />
@@ -90,7 +90,8 @@ A repository for C++ learning, practice, and engineering-oriented exercises.
 
 ---
 
-## Note
+## 说明
 
-I care about clarity, reliability, and implementation.  
-For me, engineering is the process of making ideas actually work.
+我比较在意清晰、可靠和真正可落地的实现。
+
+对我来说，工程的意义在于把想法做成真正能运行的东西。
