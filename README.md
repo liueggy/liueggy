@@ -1,96 +1,122 @@
-<h1 align="center">LiuEggy</h1>
+<div align="center">
 
-<p align="center">
-  机械工程专业学生 · 嵌入式系统 · AIoT · 云端部署
-</p>
+# LiuEggy
 
-<p align="center">
+### 机械工程专业学生 · 嵌入式系统开发者
+
+<p>
   <a href="https://github.com/liueggy">
-    <img src="https://img.shields.io/badge/GitHub-liueggy-181717?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-liueggy-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://liueggy.live">
-    <img src="https://img.shields.io/badge/Website-liueggy.live-0A66C2?style=flat-square&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-liueggy.live-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:3157487230@qq.com">
-    <img src="https://img.shields.io/badge/Email-3157487230%40qq.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6AA6FF&center=true&vCenter=true&width=700&lines=%E4%BB%8E%E7%A1%AC%E4%BB%B6%E5%88%B0%E8%BD%AF%E4%BB%B6%EF%BC%8C%E6%9E%84%E5%BB%BA%E5%8F%AF%E9%9D%A0%E7%9A%84%E7%B3%BB%E7%BB%9F%E3%80%82;%E4%B8%93%E6%B3%A8%E4%BA%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91%E3%80%81%E8%A7%86%E8%A7%89%E4%B8%8E%E9%83%A8%E7%BD%B2%E5%B7%A5%E7%A8%8B%E3%80%82;%E6%8A%8A%E5%B7%A5%E7%A8%8B%E6%83%B3%E6%B3%95%E5%8F%98%E6%88%90%E7%9C%9F%E6%AD%A3%E8%83%BD%E8%BF%90%E8%A1%8C%E7%9A%84%E4%BD%9C%E5%93%81%E3%80%82" alt="Typing SVG" />
-</p>
+> 从硬件到软件，构建完整可靠的嵌入式系统
+> 专注于工程实践，让技术落地成为真正可运行的作品
+
+</div>
 
 ---
 
-## 简介
+## 关于我
 
-我是一名机械工程专业学生，关注嵌入式开发、机器视觉、AIoT 和实际工程部署。
+机械工程专业学生，专注于嵌入式系统开发与工程实践。
 
-我更在意的不是单点技术本身，而是把硬件、控制、感知与软件系统组织成完整、可运行、可维护的工程作品。
+我关注的不仅是技术本身，更在意如何将硬件、控制、感知与软件系统整合为完整可靠的工程解决方案——从需求分析到系统设计，从代码实现到实际部署。
 
 ---
 
-## 关注方向
+## 技术方向
 
-- 基于 STM32 的嵌入式系统开发
-- 视觉相关任务与智能识别
-- AIoT 与设备侧工程实践
-- Docker / Nginx / 云服务器部署
-- 从原型验证到落地实现的完整工程流程
+**嵌入式系统**
+STM32 单片机开发、底层驱动编写、实时控制系统设计
+
+**计算机视觉**
+目标检测、图像识别、K230 AI SoC 视觉应用开发
+
+**物联网 (AIoT)**
+设备互联、边缘计算、传感器数据采集与处理
+
+**系统部署**
+Linux 服务器运维、Docker 容器化、Nginx 反向代理配置
 
 ---
 
 ## 技术栈
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
+**编程语言**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**嵌入式 & 硬件**
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+
+**系统 & 工具**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 代表项目
+## 精选项目
 
-### [STM32_code](https://github.com/liueggy/STM32_code)
-基于 STM32F103ZET6 的智能垃圾分类系统项目代码，聚焦控制逻辑、嵌入式实现与工程落地。
+### 🔧 [STM32 Code Weaver](https://github.com/liueggy/stm32-code-weaver)
+基于 Web 的 STM32 嵌入式系统代码生成工具，通过可视化配置快速生成标准化的 STM32 工程代码。
+- 支持多种外设配置（GPIO、定时器、串口等）
+- 自动生成符合工程规范的代码框架
+- 提升开发效率，降低入门门槛
 
-### [personal_website](https://github.com/liueggy/personal_website)
-个人网站项目，用于展示项目记录、实验过程与技术成长轨迹。
+### 🤖 [智能垃圾分类系统](https://github.com/liueggy/STM32_code)
+基于 STM32F103ZET6 的嵌入式控制系统，实现垃圾自动识别与分类。
+- STM32 底层驱动开发与系统控制
+- 传感器数据采集与处理
+- 多模块协同工作的工程实践
 
-### [catkin_ws](https://github.com/liueggy/catkin_ws)
-面向 ROS / 机器人学习与开发的工作区，用于整理实验、代码与系统实践。
+### 🌐 [个人网站](https://github.com/liueggy/personal_website)
+技术博客与项目展示平台，记录学习历程与技术实践。
+- 基于现代 Web 技术栈
+- 自动化部署流程（Docker + Nginx）
+- 持续更新的技术文档与项目记录
 
-### [eggy-cpp](https://github.com/liueggy/eggy-cpp)
-用于 C++ 学习、练习与工程化积累的代码仓库。
-
----
-
-## 当前重点
-
-- 构建基于 STM32 的嵌入式控制系统
-- 探索 K230 AI SoC 上的视觉任务实践
-- 完善 Docker 与 Nginx 相关部署流程
-- 从单功能 Demo 逐步走向完整工程实现
-
----
-
-## 项目导航
-
-- [我的 GitHub 仓库列表](https://github.com/liueggy?tab=repositories)
-- [个人主页网站](https://liueggy.live)
-- [GitHub 个人主页仓库](https://github.com/liueggy/liueggy)
+### 🤖 [ROS 机器人开发](https://github.com/liueggy/catkin_ws)
+基于 ROS 的机器人学习与开发工作区。
+- ROS 节点开发与通信
+- 机器人运动控制实验
+- 传感器融合与算法验证
 
 ---
 
-## 说明
+## 当前研究方向
 
-我比较在意清晰、可靠和真正可落地的实现。
+- **嵌入式系统优化** - 提升 STM32 系统性能与稳定性
+- **AI 视觉应用** - 探索 K230 SoC 在边缘计算中的应用
+- **工程工具链** - 开发提升嵌入式开发效率的辅助工具
+- **系统集成** - 从单一功能模块到完整系统的工程化实践
 
-对我来说，工程的意义在于把想法做成真正能运行的东西。
+---
+
+<div align="center">
+
+### 📫 联系方式
+
+[![GitHub](https://img.shields.io/badge/GitHub-@liueggy-181717?style=for-the-badge&logo=github)](https://github.com/liueggy?tab=repositories)
+[![Website](https://img.shields.io/badge/Website-liueggy.live-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://liueggy.live)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3157487230@qq.com)
+
+---
+
+*坚持工程实践，追求技术深度*
+
+</div>
+
