@@ -1,6 +1,6 @@
 # LiuEggy
 
-> Mechanical Engineering · Robotics · Embedded Systems · Cloud Console
+> 机械工程 · 机器人 · 嵌入式系统 · 云端控制台
 
 <p align="left">
   <a href="https://liueggy.live">
@@ -11,24 +11,24 @@
   </a>
 </p>
 
-I build systems that connect real hardware with software you can actually use.
+我关注真实硬件与软件系统之间的连接：从机械结构、嵌入式控制到 ROS 机器人系统，再到云端中继与 Web / App 控制台。
 
-My work sits between mechanical structures, embedded control, ROS robotics, and cloud-based interfaces. I care about making prototypes not only impressive in a demo, but also debuggable, deployable, and maintainable in the real world.
+相比堆功能清单，我更在意系统是否真的能跑、能调试、能部署、能持续迭代。
 
-## Focus
+## 方向
 
-- Robotics systems with ROS, sensors, odometry, mapping, and motion control
-- Embedded development around STM32, serial protocols, drivers, and hardware integration
-- Cloud relay and web/app consoles for remote robot monitoring and control
-- Engineering tools that make development workflows clearer and more repeatable
+- ROS 机器人系统：传感器、里程计、建图、运动控制与远程运维
+- 嵌入式开发：STM32、串口协议、底层驱动与多模块硬件集成
+- 云端控制台：WebSocket 中继、机器人状态监控、地图与遥控界面
+- 工程工具：把重复的开发流程沉淀成可复用工具
 
-## Current Work
+## 近况
 
-I am currently developing a Firefly-based ROS mecanum robot platform, connecting STM32 low-level control, RPLIDAR, external IMU, rosbridge, a cloud relay service, and a real-time web/iOS control console.
+正在开发一套基于 Firefly 主板的 ROS 麦克纳姆轮机器人平台，连接 STM32 底盘控制、RPLIDAR、外接 IMU、rosbridge、云端 relay，以及 Web / iOS 实时控制端。
 
-The goal is simple: a robot system that can run, be inspected, be controlled remotely, and keep improving over time.
+目标很简单：让机器人系统不只停留在 Demo，而是能被稳定运行、远程查看、持续改进。
 
-## Tech Stack
+## 技术栈
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
@@ -47,21 +47,21 @@ The goal is simple: a robot system that can run, be inspected, be controlled rem
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-## Selected Projects
+## 代表项目
 
 **Firefly ROS Robot**  
-A complete robot platform from STM32 base control and sensor integration to ROS mapping, motion control, system services, and remote operation.
+从 STM32 底盘控制、传感器接入到 ROS 建图、运动控制、系统服务与远程控制的完整机器人平台。
 
 **ROS Cloud Relay / Robot Console**  
-A WebSocket-based relay and console that connects web/app clients with a robot-side ROS agent through the cloud.
+通过云端 WebSocket relay 连接 Web / App 客户端与机器人端 ROS Agent，实现远程监控与控制。
 
 **STM32 Code Weaver**  
-A web-based embedded code generation tool for reusable STM32 project patterns and engineering templates.
+面向嵌入式开发的代码生成与工程模板工具，沉淀常用外设配置和项目结构。
 
-**Embedded AI & Vision Exploration**  
-Experiments around edge AI, vision models, and AI SoC workflows for robotics applications.
+**边缘 AI 与视觉探索**  
+围绕机器人场景探索视觉识别、边缘 AI 与 AI SoC 应用。
 
-## Links
+## 链接
 
 - Website: [liueggy.live](https://liueggy.live)
 - GitHub: [github.com/liueggy](https://github.com/liueggy)
@@ -69,5 +69,5 @@ Experiments around edge AI, vision models, and AI SoC workflows for robotics app
 ---
 
 <p align="center">
-  <em>From mechanical structure to embedded control, from ROS to cloud interfaces — building systems that run in the real world.</em>
+  <em>从机械结构到嵌入式控制，从 ROS 到云端控制台，把系统做成真正能运行的样子。</em>
 </p>
