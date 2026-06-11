@@ -1,194 +1,137 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,45:2563eb,100:06b6d4&text=LiuEggy&fontColor=ffffff&fontSize=52&fontAlignY=35&desc=机械工程%20%7C%20嵌入式系统%20%7C%20ROS机器人%20%7C%20AI工具链&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,45:2563eb,100:06b6d4&text=LiuEggy&fontColor=ffffff&fontSize=54&fontAlignY=34&desc=Mechanical%20Engineering%20%C2%B7%20Embedded%20Systems%20%C2%B7%20ROS%20Robotics%20%C2%B7%20AI%20Tooling&descAlignY=58&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&center=true&vCenter=true&width=760&lines=你好，我是+LiuEggy;机械工程本科生;正在学习嵌入式开发与+ROS+机器人;STM32+%2F+FreeRTOS+%2F+Linux+%2F+Robot+Control;把机械结构、硬件电路和代码连接成真正能跑的系统" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&center=true&vCenter=true&width=820&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+LiuEggy;%E6%8A%8A%E6%9C%BA%E6%A2%B0%E7%BB%93%E6%9E%84%E3%80%81%E7%A1%AC%E4%BB%B6%E7%94%B5%E8%B7%AF%E5%92%8C%E4%BB%A3%E7%A0%81%E8%BF%9E%E6%8E%A5%E8%B5%B7%E6%9D%A5;STM32+%2F+FreeRTOS+%2F+ROS+%2F+Robot+Control;%E6%AD%A3%E5%9C%A8%E6%9E%84%E5%BB%BA%E7%9C%9F%E6%AD%A3%E8%83%BD%E8%B7%91%E7%9A%84%E5%B7%A5%E7%A8%8B%E7%B3%BB%E7%BB%9F" />
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=liueggy&style=flat-square&color=2563eb)
-![GitHub followers](https://img.shields.io/github/followers/liueggy?style=flat-square&color=06b6d4)
-![GitHub User's stars](https://img.shields.io/github/stars/liueggy?style=flat-square&color=f59e0b)
+![Followers](https://img.shields.io/github/followers/liueggy?style=flat-square&color=06b6d4)
+![Stars](https://img.shields.io/github/stars/liueggy?style=flat-square&color=f59e0b)
 
 </div>
 
 ---
 
-## 👋 关于我
+## 👋 Hi, I'm LiuEggy
 
-你好，我是 **LiuEggy**。
+我是一名 **机械工程专业本科生**，长期关注嵌入式控制、机器人系统与工程自动化。  
+我喜欢把一个系统从结构、电路、底层驱动、通信协议，一路做到上层控制和可视化，让它真正稳定地跑起来。
 
-我是一名机械工程专业本科生，目前主要学习和实践：
-
-- **嵌入式开发**：STM32、HAL、FreeRTOS、UART、I2C、SPI、PWM、DMA
-- **机器人系统**：ROS、小车底盘、传感器融合、串口通信、导航与控制
-- **嵌入式 Linux**：RK3568、Linux 设备管理、摄像头、雷达、串口设备
-- **机械设计**：SolidWorks、CAD、机构设计、运动结构分析
-- **AI 工具链**：AI Agent、自动化工作流、开发效率工具
-
-我喜欢做能真正落地的项目：  
-从机械结构，到电机驱动，到传感器采集，再到上层 ROS 控制，把系统完整跑起来。
+> **目标不是只写能运行的代码，而是构建可调试、可维护、可迭代的工程系统。**
 
 ---
 
-## 🧭 当前方向
-
-```txt
-机械结构设计
-    ↓
-电机 / 舵机 / 传感器
-    ↓
-STM32 嵌入式控制
-    ↓
-ROS 通信与机器人控制
-    ↓
-感知、导航、自动化系统
-```
-
----
-
-## 🛠 技术栈
-
-### 编程语言
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,md,html,css,js" />
-</p>
-
-### 嵌入式与机器人
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ros,arduino,raspberrypi,cmake" />
-</p>
-
-### 开发工具
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,clion,visualstudio,anaconda" />
-</p>
-
----
-
-## 🤖 我正在学习 / 构建
+## 🎯 Current Focus
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-
-### 🔌 STM32 嵌入式
-
-- GPIO / EXTI 外部中断
-- TIM 定时器 / PWM 输出
-- UART / DMA / 空闲中断
-- I2C / SPI / OLED 显示
-- ADC / 编码器 / 电机驱动
-- FreeRTOS 任务调度
-
-</td>
-<td width="50%" valign="top">
-
-### 🚗 ROS 机器人
-
-- 小车底盘控制
-- 串口协议设计
-- 传感器数据发布
-- 摄像头与雷达接入
-- ROS Topic / Launch 调试
-- 导航与建图方向探索
-
-</td>
+    <td width="25%" align="center">
+      <b>Embedded</b><br/>
+      STM32 · HAL · FreeRTOS<br/>
+      UART · DMA · PWM
+    </td>
+    <td width="25%" align="center">
+      <b>Robotics</b><br/>
+      ROS · Mobile Robot<br/>
+      Odom · Navigation
+    </td>
+    <td width="25%" align="center">
+      <b>Linux</b><br/>
+      RK3568 · Device I/O<br/>
+      Serial · Camera · LiDAR
+    </td>
+    <td width="25%" align="center">
+      <b>AI Tooling</b><br/>
+      Agent · Automation<br/>
+      Workflow Design
+    </td>
   </tr>
 </table>
 
 ---
 
-## 📌 项目展示
-
-| 项目 | 简介 | 方向 |
-|---|---|---|
-| [Embed_book](https://github.com/liueggy/Embed_book) | 嵌入式学习笔记与资料整理 | Embedded |
-| [STM32_code](https://github.com/liueggy/STM32_code) | STM32 外设实验与工程代码 | STM32 |
-| [rk3568-notes](https://github.com/liueggy/rk3568-notes) | RK3568 与嵌入式 Linux 学习记录 | Linux |
-| [Ros_car_app](https://github.com/liueggy/Ros_car_app) | ROS 小车相关应用与控制探索 | Robotics |
-| [personal_website](https://github.com/liueggy/personal_website) | 个人网站项目 | Website |
-
----
-
-## 📊 近期活动与数据
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=liueggy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liueggy&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=liueggy&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=liueggy&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🏆 GitHub 成就
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=liueggy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-
-</div>
-
----
-
-## 🧩 我的学习路线
-
-```mermaid
-graph TD
-    A[机械工程基础] --> B[机构设计与运动分析]
-    B --> C[电机与执行机构]
-    C --> D[STM32 嵌入式控制]
-    D --> E[传感器采集与通信协议]
-    E --> F[ROS 机器人系统]
-    F --> G[感知 / 导航 / 自动化]
-    G --> H[真实机器人项目落地]
-```
-
----
-
-## 🧠 最近关注的关键词
+## 🧩 Engineering Map
 
 ```txt
-STM32 HAL
-FreeRTOS
-UART DMA
-PWM Motor Control
-Encoder Feedback
-ROS Noetic
-Robot Navigation
-RK3568
-Embedded Linux
-AI Agent
+Mechanical Design
+      ↓
+Actuators / Sensors / Circuits
+      ↓
+STM32 Embedded Control
+      ↓
+Serial Protocols & Device Drivers
+      ↓
+ROS Communication & Robot Control
+      ↓
+Perception / Navigation / Automation
 ```
 
 ---
 
-## 🧪 工程理念
+## 🛠 Tech Stack
 
-> 不只是让代码能跑，而是让系统稳定、可调、可维护。  
-> 不只是画出机械结构，而是让它和控制系统真正配合起来。
+<div align="center">
+
+<h3>Languages</h3>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,md,html,css,js" />
+
+<h3>Embedded / Robotics / Linux</h3>
+<img src="https://skillicons.dev/icons?i=linux,ros,arduino,raspberrypi,cmake" />
+
+<h3>Tools</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,clion,visualstudio,anaconda" />
+
+</div>
 
 ---
 
-## 🌐 联系我
+## 🌱 Building Now
 
-- GitHub: [@liueggy](https://github.com/liueggy)
-- Website: [liueggy.live](https://liueggy.live)
+- **STM32 外设与控制**：GPIO、TIM/PWM、UART/DMA、I2C/SPI、ADC、编码器、电机驱动
+- **机器人底盘系统**：串口协议、里程计、IMU 融合、雷达接入、ROS Topic / Launch 调试
+- **嵌入式 Linux 实践**：设备节点、串口绑定、摄像头与雷达、系统服务与启动流程
+- **工程文档与工具链**：学习笔记、自动化脚本、AI Agent 辅助开发流程
+
+---
+
+## 🧠 Keywords
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STM32-HAL-2563eb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FreeRTOS-RTOS-06b6d4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UART-DMA-f59e0b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Motor-Control-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ROS-Noetic-8b5cf6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Robot-Navigation-ef4444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embedded-Linux-64748b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Agent-0ea5e9?style=for-the-badge" />
+</p>
+
+---
+
+## ✨ Engineering Philosophy
+
+```txt
+Make it move.
+Make it measurable.
+Make it reliable.
+Make it elegant.
+```
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-liueggy-0f172a?style=for-the-badge&logo=github)](https://github.com/liueggy)
+[![Website](https://img.shields.io/badge/Website-liueggy.live-2563eb?style=for-the-badge&logo=safari&logoColor=white)](https://liueggy.live)
+
+</div>
 
 ---
 
