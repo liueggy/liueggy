@@ -11,8 +11,7 @@
   </a>
 </p>
 
-机械工程专业本科生，关注嵌入式开发、机器人控制、ROS 系统与 AI 工程工具。喜欢把机械结构、传感器、控制算法和软件系统连接起来，做出真正能运行的东西。
-
+关注嵌入式开发、机器人控制、ROS 系统与 AI 工程工具。
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
