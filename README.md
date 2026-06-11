@@ -1,34 +1,63 @@
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=130&section=header&text=LiuEggy&fontColor=FFFFFF&fontSize=36&fontAlignY=38&animation=fadeIn"
-  alt="header"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=130&section=header&text=Hello,%20I'm%20LiuEggy%20!&fontColor=FFFFFF&fontSize=40&fontAlignY=38&animation=fadeIn&desc=Robotics%20&%20Embedded%20Developer&descAlignY=60&descAlign=50" alt="header" />
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=520&lines=%E6%9C%BA%E6%A2%B0%E5%B7%A5%E7%A8%8B%20%2F%20%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F;%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8E%A7%E5%88%B6%20%2F%20ROS%20%2F%20AI%20%E5%B7%A5%E5%85%B7;%E5%81%9A%E8%83%BD%E8%90%BD%E5%9C%B0%E3%80%81%E8%83%BD%E8%BF%90%E8%A1%8C%E3%80%81%E8%83%BD%E5%8A%A8%E8%B5%B7%E6%9D%A5%E7%9A%84%E4%B8%9C%E8%A5%BF"
-  alt="Typing SVG"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=⚙️+机械工程+%2F+嵌入式开发+%2F+硬件中断;🤖+机器人控制+%2F+ROS+%2F+机器视觉+(YOLO);☁️+网络通信原理+%2F+云端部署;💡+热爱把机械、传感器与控制算法连接起来;🚀+做能落地、能运行、能动起来的硬核工程" alt="Typing SVG" />
 
 <br/>
 
-机械工程专业本科生，关注机器人控制、嵌入式开发、ROS 系统与 AI 工程工具。
+[![Website](https://img.shields.io/badge/主页-liueggy.qzz.io-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://liueggy.qzz.io)
+[![GitHub](https://img.shields.io/badge/GitHub-liueggy-111827?style=for-the-badge&logo=github)](https://github.com/liueggy)
 
-喜欢把机械结构、传感器、控制算法和软件系统连接起来，做出真正能跑起来的东西。
+</div>
 
-<br/>
-<br/>
+---
 
-<a href="https://liueggy.qzz.io">
-  <img src="https://img.shields.io/badge/Website-liueggy.qzz.io-2563EB?style=flat-square&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://github.com/liueggy">
-  <img src="https://img.shields.io/badge/GitHub-liueggy-111827?style=flat-square&logo=github" />
-</a>
+### 👨‍💻 关于我 | About Me
 
-<br/>
-<br/>
+**机械工程专业本科生，热衷于让冷冰冰的硬件通过代码“活”起来。** 
+从底层的机械结构设计（CAD）、电机特性仿真，到嵌入式主控开发，再到上层的计算机视觉算法和云端服务器部署，我喜欢探索一整套系统的闭环。
 
-`STM32` · `ROS` · `Linux` · `Robot Control` · `Embedded Systems` · `AI Tools`
+- 🔭 **目前正在做：** 嵌入式系统开发（ESP32/STM32）与基于 YOLO / K230 的机器视觉项目。
+- 🌱 **目前正在学：** ROS 机器人操作系统、高级 AI 目标检测算法、网络通信原理。
+- ⚙️ **日常工具箱：** 经常穿梭于 MATLAB 的数据可视化、CAD 的结构设计与云服务器的命令行之间。
+- 💬 **想和我聊聊？** 欢迎交流硬件通信（串口/DMA/中断）、机器人驱动设计或是任何有趣的软硬结合项目！
 
+---
+
+### 🛠️ 技术栈 | Tech Stack
+
+<div align="center">
+
+**嵌入式与底层硬件 | Embedded & Hardware**<br>
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/FreeRTOS-20232A?style=flat-square&logo=freertos&logoColor=white" />
+
+**机器人与算法 | Robotics & Algorithms**<br>
+<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer_Vision-5C5C5C?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+**系统与云端 | System & Cloud**<br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" />
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 开源数据 | GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=liueggy&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=333333" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liueggy&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=333333" height="150" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=liueggy&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile Views" />
 </div>
